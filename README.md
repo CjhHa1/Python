@@ -1,2 +1,3 @@
 # python
-Python learning in 2020
+包括python学习的各种笔记，目前更新的列表如下
+1.python数据处理
